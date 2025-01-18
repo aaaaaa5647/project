@@ -1,0 +1,24 @@
+﻿  Game.cpp
+C:\Users\student1\source\repos\project\project\Player.h(76,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Game.cpp")
+  
+C:\Users\student1\source\repos\project\project\Player.h(76,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Game.cpp")
+  
+  Player.cpp
+C:\Users\student1\source\repos\project\project\Player.h(76,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Player.cpp")
+  
+C:\Users\student1\source\repos\project\project\Player.h(76,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Player.cpp")
+  
+  project.cpp
+C:\Users\student1\source\repos\project\project\project.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\student1\source\repos\project\project\Player.h(76,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "project.cpp")
+  
+C:\Users\student1\source\repos\project\project\Player.h(76,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "project.cpp")
+  
+  Создание кода...
+  project.vcxproj -> C:\Users\student1\source\repos\project\x64\Debug\project.exe
